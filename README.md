@@ -1,2 +1,4 @@
 # Resume
-This repository contains my resume
+I am Manan Jain, a proficient software developer with expertise in React.js, Django, PostgreSQL, Object-Oriented Programming (OOP), and Data Structures and Algorithms (DSA). With a strong foundation in Full Stack Development, I have successfully developed and implemented dynamic, responsive web applications and backend systems. My academic journey in Computer Science with a specialization in Artificial Intelligence and Data Science from MIT World Peace University has equipped me with the technical and analytical skills required to excel in modern software development.
+
+During my internships at DEXT IT Solutions and Markytics, I contributed to creating real-time data visualizations and centralized employee management systems. With hands-on experience in various frameworks and technologies, I am passionate about designing efficient and scalable solutions that address real-world challenges.
